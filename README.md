@@ -86,7 +86,7 @@ cp RLServerInfo-rl.config RLServerInfo.config
 benchexec rl_domainsel_challenge.xml
 ```
 
-*[^_^]:我只改了模型的名称
+*[^_^]:Only the name of the model is different in the command lines
 
 *[^_^]:2 domain
 - Start the experiment on the ordinary set (our approach, RL-Domainsel):
