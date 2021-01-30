@@ -16,7 +16,7 @@ Preprocess the input eigenvectors.
 6.TDD_Server_mt.py
 Run the RL as the server.
 
-7.FEATURE_STATIC_25.txt/FEATURE_VA-PA_72.txt
+7.FEATURE_STATIC_25.txt/FEATURE_OCT-VA-PA_93.txt
 File to save feature information.
 
 8.train.py
